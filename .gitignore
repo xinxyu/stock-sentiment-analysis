@@ -1,2 +1,5 @@
 # folder with all csv data stored
 data
+
+#jupyter notebook checkpoints
+.ipynb_checkpoints
